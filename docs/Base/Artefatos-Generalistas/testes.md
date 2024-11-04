@@ -72,18 +72,3 @@ Eles representam todos os fluxos de operações entre os atores, operações e a
 
 Representa os limites do sistema, as operações das quais ele se responsabiliza, ou seja, é a linha que define os limites do sistema ou problema sendo representado, ajudando a direcionar a análise e a compreensão visual.
 
-### Link para o miro com todos os artefatos
-
-
-No link asseguir você pode acessar todos esses artefatos prontos no miro: 
-
-
-<iframe width="768" height="432" src="https://miro.com/welcomeonboard/M1pEdEJIRHRWM1RISDJUalVDNWlLQlVONEFHWkJqMENNeTRVRFptQXpaSjhpSk10Tm1ONHptazNUUjYwUXJzTnwzNDU4NzY0NTk2OTQzNzAzMTE3fDI=?share_link_id=55038812144" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
-
-
-## Histórico de Versão
-
-| Versão | Data | Descrição | Autor(es) |
-| ------ | ---- | --------- | --------- |
-| 0.1  | 03/11/2024 | Versões dos Artefatos Generalistas| Raphael Mendes da Silva, Henrique Batalha, João Pedro da Silva Rodrigues, Isaque Santos, Marcos Bittar, Magno Luiz Vale Vieira, Vinicius Gabriel |
-

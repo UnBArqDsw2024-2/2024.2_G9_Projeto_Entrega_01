@@ -27,7 +27,7 @@ Definir o desafio: Qual é o problema específico que se busca resolver?
 - Mapear o usuário: Quem são as pessoas que serão impactadas pela solução? Quais são suas necessidades e dores?
 - Estabelecer metas: Quais são os objetivos claros e mensuráveis a serem alcançados?
 - O objetivo dessa etapa é Alinhar a equipe sobre o desafio e garantir que todos estejam trabalhando em direção ao mesmo objetivo.
-- Técnicas utilizadas: Perfil de usuário, Personas, Questionário, 5W2H, Rich Picture, Glossário e MoSCoW
+- Técnicas utilizadas: [Personas](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.4.Personas), [Questionario](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.6.Questionario), [5W2H](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.8.5W2H), [Rich Picture](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/Artefatos-Generalistas/README?id=rich-picture), [Glossario](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.9.Glossario) e [MoSCoW](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.1.TecnicasElicitacao?id=prioriza%c3%a7%c3%a3o-moscow)
 
 Na fase de Entendimento do Design Sprint, o objetivo é construir uma visão detalhada e bem fundamentada sobre o problema e sobre o público-alvo. 
 
@@ -50,7 +50,7 @@ MoSCoW: A técnica MoSCoW é útil para ajudar a equipe a identificar quais func
 - Brainstorming: A equipe gera o maior número possível de ideias, sem julgamentos, para solucionar o desafio.
 - Explorar diferentes perspectivas: São incentivadas ideias criativas e fora da caixa.
 - O objetivo dessa etapa é Gerar um grande número de ideias para explorar diferentes possibilidades e aumentar as chances de encontrar uma solução inovadora.
-- Técnicas utilizadas: Brainstorming, Mapa mental
+- Técnicas utilizadas: [Brainstorm](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.2.Brainstorm), [Mapa mental](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/Artefatos-Generalistas/README?id=mapa-mental)
 
 Na etapa de Divergir do Design Sprint, o foco é explorar o máximo de ideias e soluções possíveis para o projeto, aproveitando o que foi entendido na fase anterior. Aqui, as técnicas de Brainstorming e Mapa Mental são ferramentas fundamentais para expandir a criatividade e organização de ideias. 
 
@@ -63,7 +63,7 @@ Mapa Mental: Após o brainstorming, o mapa mental organiza as ideias exploradas 
 - Seleção das melhores ideias: A equipe avalia e vota nas ideias mais promissoras, considerando os critérios definidos anteriormente.
 - Construção de um storyboard: A ideia escolhida é transformada em um storyboard, uma sequência de desenhos que visualiza a experiência do usuário.
 - O objetivo dessa ideia é Concentrar os esforços em uma única ideia, evitando desperdício de tempo e recursos.
-- Técnicas utilizada: Mapa de risco
+- Técnicas utilizada: [Plano de risco](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/Artefatos-Generalistas/PlanoDeRisco)
 
 Na etapa de Decidir do Design Sprint, o Mapa de Risco desempenha um papel essencial ao ajudar a equipe a avaliar e priorizar as ideias geradas na fase de Divergir. Após explorar várias possibilidades, o mapa de risco é utilizado para identificar e entender os potenciais desafios e incertezas associados a cada solução ou funcionalidade proposta.
 
@@ -79,7 +79,7 @@ Definir Estratégias de Mitigação: Planejar como minimizar ou contornar os ris
 - Criação de um protótipo: Um protótipo funcional (mesmo que simples) é criado para simular a experiência do usuário com a solução.
 - Foco na interação: O protótipo deve permitir que os usuários interajam com a solução de forma realista.
 - O objetivo dessa etapa é Visualizar a ideia e testar sua usabilidade de forma rápida e eficiente.
-- Técnicas utilizadas: Criação do protótipo de Alta fidelidade
+- Técnicas utilizadas: Criação do [Protótipo](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.10.Prototipo) de Alta fidelidade
 
 Na etapa de Prototipar do Design Sprint, a criação de um protótipo de alta fidelidade no Figma foi um avanço significativo para dar sentido à experiência que queremos oferecer aos usuários. Esse tipo de protótipo permite que a equipe visualize o site quase como ele seria na prática, simulando a interação real e capturando a essência do design final.
 
@@ -98,7 +98,7 @@ Também avançamos criando telas detalhadas para o site circense, representando 
 - Testes com usuários: O protótipo é testado com usuários reais para coletar feedback e observar como eles interagem com a solução.
 - Análise dos resultados: Os dados coletados são analisados para identificar pontos fortes, fracos e oportunidades de melhoria.
 - O objetivo dessa etapa é Aprender com os usuários e validar se a solução está no caminho certo.
-- Metodologia utilizada: Verificação e Validação do protótipo.
+- Metodologia utilizada: Verificação e Validação do [Protótipo](https://unbarqdsw2024-2.github.io/2024.2_G9_Projeto_Entrega_01/#/Base/DesignSprint/1.1.10.Prototipo).
 
 Para a fase de teste, tivemos o teste de usabilidade. Estruturamos uma série de perguntas qualitativas e métricas quantitativas que nos ajudarão a avaliar o sistema segundo a experiência e a percepção dos usuários. O questionário aborda desde a familiaridade dos usuários com plataformas semelhantes até a facilidade de uso e a confiança ao interagir com o site. As heurísticas de Nielsen guiarão nossa análise para identificar possíveis áreas de melhoria, principalmente em aspectos como simplicidade, controle do usuário, e prevenção de erros.
 
@@ -121,9 +121,10 @@ O questionário busca insights sobre a experiência dos usuários com o site, ab
 
 ## Histórico de Versões
 
-| Versão |     Data    | Descrição   | Autor(es) | Revisor(es) |
-| ------ | ----------- | ----------- | --------- | ----------- |
-| `1.0`  | 01/10/2024  | Criação do artefato|[Carlos Gabriel](https://github.com/TheCarlosRamos)   | - |
+| Versão |     Data    | Descrição   | Autor(es) | 
+| ------ | ----------- | ----------- | --------- | 
+| `1.0`  | 01/10/2024  | Criação do artefato|[Carlos Gabriel](https://github.com/TheCarlosRamos)   
+| `1.1`  | 04/10/2024  | Adição dos hiperlinks|[Carlos Gabriel](https://github.com/TheCarlosRamos) 
 
 <!--Usando a lista de projetos indicados por grupo para o período letivo vigente, realizar Design Sprint para levantamento dos requisitos.
 

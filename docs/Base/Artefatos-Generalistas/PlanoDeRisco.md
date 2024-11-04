@@ -314,3 +314,12 @@ Implementar um bom teste do software em questão.
 ## Conclusão
 A elaboração do plano de risco se torna uma ferramenta essencial para uma boa gestão do projeto, já que possibilita uma visão ampla e clara sobre os riscos a serem enfrentados e as medidas a serem tomadas para que eles não impactem de forma negativa na entrega final do projeto. 
 
+## Histórico de versão
+
+| Versão | Data | Descrição | Autor(es) |
+| ------ | ---- | --------- | --------- |
+| 0.1  | 02/11/2024 | Criação do Artefato | [João Pedro](https://github.com/joaopedrodasilvarodrigues), [Raphael Mendes da Silva](https://github.com/Raphides), [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH)|
+| 0.2  | 04/11/2024 | Criação do Histórico de Versão | [Henrique Batalha](https://github.com/HeBatalha), [Isaque Santos](https://github.com/IsaqueSH), [Magno Luiz](https://github.com/magnluiz)|
+
+> **Observação:** A adição do histórico de versão 0.1 foi feito posteriormente na data 04/11/2024. Devido a falta de uma ata criada na ocasião alguns detalhes podem estar incorretos.
+

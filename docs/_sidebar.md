@@ -1,17 +1,21 @@
 <!--/_sidebar.md -->
 
-- [Home](/docs)
-- [Projetos](/Projetos/Projetos.md)
+- [Home](README.md)
 
 - **Base**
-
-  - [1. Desenho de Software (Base)](Base/1.Base.md)
-    - [1.1. Design Sprint](Base/1.1.DesignSprint.md)
-      - [1.1.1. Design Sprint](Base/1.1.1.DesignSprint.md)
-      - [1.1.2. Técnicas de elicitação utilizadas](Base/1.1.2.TecnicasElicitacao.md)
-      - [1.1.3. Artefatos representativos](Base/1.1.3.ArtefatosRepresentativos.md)
-      - [1.1.4. Protótipação e Teste](Base/1.1.4.PrototipacaoTeste.md)
-    - [1.2. Artefato Generalista](Base/1.2.ArtefatoGeneralista.md)
+  - **1. Desenho de Software (Base)**
+    - [1.1. Design Sprint](Base/DesignSprint/README.md)
+      - [1.1.1. Técnicas de elicitação utilizadas](Base/DesignSprint/1.1.1.TecnicasElicitacao.md)
+      - [1.1.2. Brainstorm](Base/DesignSprint/1.1.2.Brainstorm.md)
+      - [1.1.3. Elicitação de Requisitos](Base/DesignSprint/1.1.3.Elicitacao.md)
+      - [1.1.4. Personas](Base/DesignSprint/1.1.4.Personas.md)
+      - [1.1.5. Priorização](Base/DesignSprint/1.1.5.Priorizacao.md)
+      - [1.1.6. Questionário](Base/DesignSprint/1.1.6.Questionario.md)
+      - [1.1.7. Termo de Consentimento](Base/DesignSprint/1.1.7.Consentimento.md)
+      - [1.1.8. 5W2H](Base/DesignSprint/1.1.8.5W2H.md)
+      - [1.1.9. Glossário](Base/DesignSprint/1.1.9.Glossario.md)
+      - [1.1.10. Protótipação e Teste](Base/DesignSprint/1.1.10.Prototipo.md)
+    - [1.2. Artefato Generalista](Base/Artefatos-Generalistas/README.md)
       - [1.2.1 Plano de Risco](Base/Artefatos-Generalistas/PlanoDeRisco.md)
       - [1.2.2 Artefatos](Base/Artefatos-Generalistas/modelagemArtefatosGeneralistas.md)
     - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)

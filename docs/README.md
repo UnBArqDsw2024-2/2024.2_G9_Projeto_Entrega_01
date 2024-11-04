@@ -1,4 +1,5 @@
-# Nome do Projeto <!-- TROCAR LINK DO REPO (index.html) QUANDO ESCOLHER NOME DO GRUPO E ALTERAR NOME DO REPO NO GH -->
+# Tsírko
+<!-- TROCAR LINK DO REPO (index.html) QUANDO ESCOLHER NOME DO GRUPO E ALTERAR NOME DO REPO NO GH -->
 
 **Código da Disciplina**: FGA0208<br>
 **Número do Grupo**: 09<br>
@@ -24,20 +25,43 @@
 
 ## Sobre
 
-Contextualize, usando referências, links, e outros materiais como fontes.
+TSÍRKO é um projeto em construção que busca ofertar serviços circenses e propor soluções para a decadência da arte circence. Esse inclusive é um problema que têm crescido cada vez mais nos últimos 50 anos desde que os avanços tecnólogicos implementaram a inovação das diversas formas de entretenimento que são tão comuns hoje, como video games e celulares.
 
-## Screenshots da Primeira Entrega
+<!--Contextualize, usando referências, links, e outros materiais como fontes.-->
 
-Adicione 2 ou mais screenshots em termos de artefatos realizados na entrega.
+## Entregas
+
+### Entrega 1:
+* [Artefatos Generalistas](/docs/Base/Artefatos-Generalistas/)
+* [BPMN da metodologia de desenvolvimento](/docs/Base/1.3.ModelagemBPMN.md)
+* [Design Sprint](/docs/Base/DesignSprint)
 
 ## Há algo a ser executado?
 
 ( ) SIM
 
-( ) NÃO
+(X) NÃO (por enquanto)
 
-Se SIM, insira um manual (ou um script) para auxiliar ainda mais os interessados na execução.
+## Site estático de Documentação
 
-## Informações Complementares
+A geração do site estático é realizada utilizando o [docsify](https://docsify.js.org/).
 
-Quaisquer outras informações adicionais podem ser descritas nessa seção.
+```shell
+"Docsify generates your documentation website on the fly. Unlike GitBook, it does not generate static html files. Instead, it smartly loads and parses your Markdown files and displays them as a website. To start using it, all you need to do is create an index.html and deploy it on GitHub Pages."
+```
+
+### Instalando o docsify
+
+Execute o comando:
+
+```shell
+npm i docsify-cli -g
+```
+
+### Executando localmente
+
+Para iniciar o site localmente, utilize o comando:
+
+```shell
+docsify serve ./docs
+```

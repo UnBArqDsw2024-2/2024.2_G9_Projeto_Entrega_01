@@ -267,7 +267,7 @@ Utilizando a Fórmula 1, foi calculado o nível de risco dos eventos mostrados a
 | Prazos curtos              | 4             | 4       | (16 - RC) - Risco crítico|
 | Recursos humanos            | 1             | 2       | (2 - RA) - Risco alto |
 | Priorização                | 2             | 5       | (10 - RA) - Risco alto |
-| Saída de membros           | 1             | 4       | (2 - RP) - Risco pouco provável|
+| Saída de membros           | 1             | 4       | (4 - RP) - Risco pouco provável|
 | Baixo desempenho           | 2             | 3       | (6 - RM) - Risco médio |
 | Mercado                    | 1             | 4       | (4 - RM) - Risco médio |
 | Cliente                    | 2             | 5       | (10 - RA) - Risco alto |

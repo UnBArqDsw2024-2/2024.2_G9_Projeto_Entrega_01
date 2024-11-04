@@ -25,16 +25,26 @@ Para esta entrega a professora estabeleceu que deveriam ser entregas no mínimo 
 - **Léxico (ou Glossário)**
 - **Plano de Risco, Custo e Tempo.**
   
-O grupo como um todo decidiu entregar 5 dos artefatos acima, que foram o 5W2H, Mapa Mental, Diagrama Causa-Efeito, Rich Picture e o Plano de Risco, Custo e Tempo. Cada um desses artefatos será exemplificado a seguir, e no final do documento colocamos o link para o miro onde estão todos esses artefatos, menos o plano de risco, custo e tempo. O plano de risco está em uma seção separada própria do pages que pode ser acessada na sidebar. 
+O grupo como um todo decidiu entregar 5 dos artefatos acima, que foram o 5W2H, Mapa Mental, Diagrama Causa-Efeito, Rich Picture e o Plano de Risco, Custo e Tempo. Cada um desses artefatos será exemplificado a seguir, juntamente com as imagens de cada um dessses artefatos, menos o plano de risco, custo e tempo. O plano de risco está em uma seção  própria do pages que pode ser acessada na sidebar devido ao seu alto nível de complexidade. Por fim, no final desse documento será disponibiilzado um link para o board do Miro no qual todos esse diagramas foram feitos, e nele é possível obrservar todos esses diagrama com o máximo de detalhes e com a melhor resolução possível. 
 
 
 
 
-# Diagrama de Ishikawa
+# Diagrama de Causa-Efeito(Espinha de peixe)
 
 ## Introdução
 
 O Diagrama de Ishikawa, conhecido como diagrama de causa e efeito, busca apresentar estimativas de causas para o evento abordado no projeto. O escopo do diagrama demonstra características do *design* do produto. O objetivo é dividir e identificar causas e problemas a serem resolvidos no projeto a ser desenvolvido e estimar os efeitos produzidos por causas apresentadas.
+
+Observe a seguir como ficou o nosso diagrama de causa e efeito: 
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Figura 1:</b> Diagrama Causa-Efeito</p></font>
+    <img src="Base/assets/DiagramaCausaEfeito.jpg">
+    
+</div>
+
+    
 
 
 # 5W2H
@@ -70,6 +80,14 @@ Através do desenvolvimento ágil, utilizando o método Scrum.
 
 Pretende-se que o software seja desenvolvido voluntariamente e de forma gratuita pelos alunos do Grupo 9 da matéria de Arquitetura e Desenho de Software. 
 
+Observe a seguir como ficou o nosso 5W2H: 
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Figura 2:</b> 5W2H</p></font>
+    <img src="Base/assets/5W2H.jpg">
+    
+</div>
+
 
 
 # Mapa Mental
@@ -78,6 +96,13 @@ Pretende-se que o software seja desenvolvido voluntariamente e de forma gratuita
 
 O mapa mental é um diagrama que permite a visualização de informações de forma hierárquica, em que suas relações são demonstradas como unidades em um conjunto. No contexto do projeto desenvolvido, o mapa mental abrange o conceito de Decadência da Arte Circense e a análise desta problemática.
 
+Observe a seguir como ficou o nosso mapa mental: 
+
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Figura 3:</b> Mapa Mental</p></font>
+    <img src="Base/assets/MapaMental.jpg">
+    
+</div>
 
 
 # Rich Picture 
@@ -95,13 +120,13 @@ Assim, será retratado a seguir o Rich Picture do sistema.
 ## Diagrama
 
 
-<iframe width="768" height="432" src="https://miro.com/welcomeonboard/M1pEdEJIRHRWM1RISDJUalVDNWlLQlVONEFHWkJqMENNeTRVRFptQXpaSjhpSk10Tm1ONHptazNUUjYwUXJzTnwzNDU4NzY0NTk2OTQzNzAzMTE3fDI=?share_link_id=55038812144" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
+<div align="center">
+    <font size="3"><p style="text-align: center"><b>Figura 4:</b> Rich Picture</p></font>
+    <img src="Base/assets/RichPicture.jpg">
+    
+</div>
 
 
-## Legenda
-
-
-<iframe width="768" height="432" src="https://miro.com/welcomeonboard/M1pEdEJIRHRWM1RISDJUalVDNWlLQlVONEFHWkJqMENNeTRVRFptQXpaSjhpSk10Tm1ONHptazNUUjYwUXJzTnwzNDU4NzY0NTk2OTQzNzAzMTE3fDI=?share_link_id=55038812144" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 ### Atores
 
@@ -146,18 +171,19 @@ Eles representam todos os fluxos de operações entre os atores, operações e a
 
 Representa os limites do sistema, as operações das quais ele se responsabiliza, ou seja, é a linha que define os limites do sistema ou problema sendo representado, ajudando a direcionar a análise e a compreensão visual.
 
-### Link para o miro com todos os artefatos
+### Link para o Miro
 
 
-No link asseguir você pode acessar todos esses artefatos prontos no miro: 
+Observe a seguir um link para o board do miro no qual todos esses diagrama foram feitos e nele é possível obervar todos esses diagramas detalhadamente com a melhor resolução possível: 
+
+<iframe width="768" height="432" src="https://miro.com/welcomeonboard/M1pEdEJIRHRWM1RISDJUalVDNWlLQlVONEFHWkJqMENNeTRVRFptQXpaSjhpSk10Tm1ONHptazNUUjYwUXJzTnwzNDU4NzY0NTk2OTQzNzAzMTE3fDI=?share_link_id=220378416165" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
-<iframe width="768" height="432" src="https://miro.com/welcomeonboard/M1pEdEJIRHRWM1RISDJUalVDNWlLQlVONEFHWkJqMENNeTRVRFptQXpaSjhpSk10Tm1ONHptazNUUjYwUXJzTnwzNDU4NzY0NTk2OTQzNzAzMTE3fDI=?share_link_id=55038812144" frameborder="0" scrolling="no" allow="fullscreen; clipboard-read; clipboard-write" allowfullscreen></iframe>
 
 
 ## Histórico de Versão
 
-| Versão | Data | Descrição | Autor(es) |
-| ------ | ---- | --------- | --------- |
-| 0.1  | 03/11/2024 | Versões dos Artefatos Generalistas| Raphael Mendes da Silva, Henrique Batalha, João Pedro da Silva Rodrigues, Isaque Santos, Marcos Bittar, Magno Luiz Vale Vieira, Vinicius Gabriel |
+| Versão | Data       | Descrição                          | Autor(es)                                                                                                                                        |
+| ------ | ---------- | ---------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 0.1    | 03/11/2024 | Versões dos Artefatos Generalistas | Raphael Mendes da Silva, Henrique Batalha, João Pedro da Silva Rodrigues, Isaque Santos, Marcos Bittar, Magno Luiz Vale Vieira, Vinicius Gabriel |
 
